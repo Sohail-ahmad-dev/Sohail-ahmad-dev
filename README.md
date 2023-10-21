@@ -28,9 +28,9 @@
   <a href="http://wa.me/923246679865" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23>
   </a>
-  <a href="skype:live:.cid.abee6d364346fb11" target="_blank">
+<!--   <a href="skype:live:.cid.abee6d364346fb11" target="_blank">
     <img src="https://img.shields.io/badge/skype-1877F2?style=for-the-badge&logo=skype&logoColor=white" height=23>
-  </a>
+  </a> -->
 
 </p>
 <hr>
