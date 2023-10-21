@@ -35,8 +35,6 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
-  <img title="HTML5" height="25" src="images/html5.svg">
-  <img title="CSS" height="25" src="images/css.svg">
   <img title="CSS" height="25" src="images/laravel.svg">
   <img title="CSS" height="25" src="images/react.svg">
   <img title="CSS" height="25" src="images/shopify.svg">
