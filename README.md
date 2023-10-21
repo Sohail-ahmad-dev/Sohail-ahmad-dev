@@ -8,7 +8,7 @@
 
 ### <img src="/images/Developer.gif" alt="developer gif" height="45px"> About Me:
 
-<p align="center">
+<p>
   Hi, I'm Sohail Ahmad! 👋, Computer Engineer & Software Developer from Pakistan
   <br>
   
