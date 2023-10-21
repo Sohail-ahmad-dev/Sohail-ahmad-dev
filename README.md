@@ -12,9 +12,9 @@
   Hi, I'm Sohail Ahmad! 👋, Computer Engineer & Software Developer from Pakistan
   <br>
 <ul align="center" style="margin: 0 auto;">
-  <ol>👀 I'm a Full-Stack Developer, specializing in PHP, JS, Shopify, and WordPress.</ol>
-  <ol>🌱 Currently, I'm exploring creating a chatbot with chatgpt.</ol>
-  <ol>💞️ I'm open to collaborations on React application development projects.</ol>
+  <li>👀 I'm a Full-Stack Developer, specializing in PHP, JS, Shopify, and WordPress.</li>
+  <li>🌱 Currently, I'm exploring creating a chatbot with chatgpt.</li>
+  <li>💞️ I'm open to collaborations on React application development projects.</li>
 </ul>
 </p>
 <p align="center">
