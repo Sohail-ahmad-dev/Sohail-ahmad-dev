@@ -11,7 +11,7 @@
 <p align="center">
   Hi, I'm Sohail Ahmad! 👋, Computer Engineer & Software Developer from Pakistan
   <br>
-<ul align="center">
+<ul align="center" style="margin: 0 auto;">
   <ol>👀 I'm a Full-Stack Developer, specializing in PHP, JS, Shopify, and WordPress.</ol>
   <ol>🌱 Currently, I'm exploring creating a chatbot with chatgpt.</ol>
   <ol>💞️ I'm open to collaborations on React application development projects.</ol>
@@ -41,7 +41,7 @@
   <img title="CSS" height="25" src="images/react.svg">
   <img title="CSS" height="25" src="images/shopify.svg">
   <img title="CSS" height="25" src="images/wp.svg">
-  <img title="CSS" height="25" src="redux/mysql.svg">
-  <img title="CSS" height="25" src="redux/redux.svg">
+  <img title="CSS" height="25" src="images/mysql.svg">
+  <img title="CSS" height="25" src="images/redux.svg">
 </p>
 <hr>
