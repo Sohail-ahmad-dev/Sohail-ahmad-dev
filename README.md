@@ -11,23 +11,23 @@
 <p align="center">
   Hi, I'm Sohail Ahmad! 👋, Computer Engineer & Software Developer from Pakistan
   <br>
-<ul>
+<ul align="center">
   <ol>👀 I'm a Full-Stack Developer, specializing in PHP, JS, Shopify, and WordPress.</ol>
   <ol>🌱 Currently, I'm exploring creating a chatbot with chatgpt.</ol>
   <ol>💞️ I'm open to collaborations on React application development projects.</ol>
 </ul>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/dev-sohail-ahmad/">
+  <a href="https://www.linkedin.com/in/dev-sohail-ahmad/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23>
   </a>
-  <a href="mailto:dev.sohailahmad@gmail.com">
+  <a href="mailto:dev.sohailahmad@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23>
   </a>
-  <a href="http://wa.me/+92346679865">
+  <a href="http://wa.me/923246679865" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23>
   </a>
-  <a href="skype:live:.cid.abee6d364346fb11">
+  <a href="skype:live:.cid.abee6d364346fb11" target="_blank">
     <img src="https://img.shields.io/badge/skype-1877F2?style=for-the-badge&logo=skype&logoColor=white" height=23>
   </a>
 
